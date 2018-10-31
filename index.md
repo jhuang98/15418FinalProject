@@ -8,7 +8,7 @@ Welcome to our website for our 15-418 Final Project. We are planning on research
 
 # TITLE
 ### AlphaChess 
-### Abel Tesfaye (atesfyae) and Jason Huang (jasonh1)
+### Abel Tesfaye (atesfaye) and Jason Huang (jasonh1)
 # URL
 [http://www.tesfayeabel.com/15418FinalProject/](http://www.tesfayeabel.com/15418FinalProject/)
 # SUMMARY
