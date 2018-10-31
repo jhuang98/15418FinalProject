@@ -8,7 +8,7 @@ Welcome to our website for our 15-418 Final Project. We are planning on research
 
 # TITLE
 # URL
-[Link](http://www.tesfayeabel.com/15418FinalProject/)
+[http://www.tesfayeabel.com/15418FinalProject/](http://www.tesfayeabel.com/15418FinalProject/)
 # SUMMARY
 # BACKGROUND
 # THE CHALLENGE
